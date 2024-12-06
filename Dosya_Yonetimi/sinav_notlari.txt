@@ -1,0 +1,3 @@
+Emre Sarac:80,90,100
+Beyza Sarac:90,80,70
+Musti Sarac:100,60,80

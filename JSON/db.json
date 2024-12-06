@@ -1,0 +1,26 @@
+{
+    "users": {
+        "emresarac": {
+            "firstName": "Emre",
+            "lastName": "Sarac"
+        },
+        "mustafasarac": {
+            "firstName": "Mustafa",
+            "lastName": "Sarac"
+        }
+    },
+    "products": {
+        "1": {
+            "productName": "IPhone 13",
+            "price": "20000"
+        },
+        "2": {
+            "productName": "IPhone 13 Pro",
+            "price": "28000"
+        },
+        "3": {
+            "productName": "IPhone 13 Pro Max",
+            "price": "38000"
+        }
+    }
+}

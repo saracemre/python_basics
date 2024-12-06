@@ -1,0 +1,19 @@
+{
+    "firstName": "Mustafa",
+    "lastName": "Sarac",
+    "hobbies": [
+        "yazilim",
+        "dizi"
+    ],
+    "age": 37,
+    "children": [
+        {
+            "firstName": "Emre",
+            "age": 18
+        },
+        {
+            "firstName": "Beyza",
+            "age": 23
+        }
+    ]
+}

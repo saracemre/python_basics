@@ -1,0 +1,6 @@
+urun adi: Iphone X ve fiyati: 4000
+urun adi: Samsung 10 ve fiyati: 8000
+urun adi: Iphone 12 ve fiyati: 10000
+urun adi: Samsung S9 ve fiyati: 6000
+urun adi: Samsung S8 ve fiyati: 5000
+
